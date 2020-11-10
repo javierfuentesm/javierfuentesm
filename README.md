@@ -21,13 +21,11 @@
 <br />
 
 ---
-<details>
+
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
-</details>
 
 
   <summary>:zap: GitHub Stats</summary>
