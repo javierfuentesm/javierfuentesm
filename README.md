@@ -28,14 +28,16 @@
 
 <br/>
 <br/>
+<br/>
 
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierfuentesm" alt="javierfuentesm" /></a> </p>
 <br/>
+
 ---
 
-  <summary>:zap: Recent GitHub Activity</summary>
+ <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
