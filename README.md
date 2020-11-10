@@ -22,24 +22,26 @@
 
 ---
 
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=javierfuentesm&show_icons=true&hide_border=true" />
 
 
 <br/>
+<br/>
 
 ---
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierfuentesm" alt="javierfuentesm" /></a> </p>
-<br>
+<br/>
+---
+
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ---
 
 ## :mailbox: How to reach me : 
