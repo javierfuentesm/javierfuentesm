@@ -46,6 +46,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierfuentesm" alt="javierfuentesm" /></a> </p>
 <br>
 ---
+
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:javierfuentesm@hotmail.com)
