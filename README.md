@@ -40,9 +40,9 @@
  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#30](https://github.com/javierfuentesm/PruebaHitss/pull/30) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
-3. 🎉 Merged PR [#29](https://github.com/javierfuentesm/PruebaHitss/pull/29) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
+1. ❗️ Closed issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. ❌ Closed PR [#23](https://github.com/javierfuentesm/PruebaHitss/pull/23) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
 5. 🎉 Merged PR [#28](https://github.com/javierfuentesm/PruebaHitss/pull/28) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
 <!--END_SECTION:activity-->
