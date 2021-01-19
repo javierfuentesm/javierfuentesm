@@ -40,10 +40,10 @@
  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. ❌ Closed PR [#23](https://github.com/javierfuentesm/PruebaHitss/pull/23) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
+1. ❗️ Opened issue [#1746](https://github.com/blitz-js/blitz/issues/1746) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+2. ❗️ Closed issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 5. 🎉 Merged PR [#28](https://github.com/javierfuentesm/PruebaHitss/pull/28) in [javierfuentesm/PruebaHitss](https://github.com/javierfuentesm/PruebaHitss)
 <!--END_SECTION:activity-->
 
