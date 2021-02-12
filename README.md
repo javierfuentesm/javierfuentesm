@@ -40,11 +40,11 @@
  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#684](https://github.com/chakra-ui/chakra-ui/issues/684) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-2. 🗣 Commented on [#613](https://github.com/chakra-ui/chakra-ui/issues/613) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. 🗣 Commented on [#4723](https://github.com/prisma/prisma/issues/4723) in [prisma/prisma](https://github.com/prisma/prisma)
+1. 🗣 Commented on [#21679](https://github.com/vercel/next.js/issues/21679) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#684](https://github.com/chakra-ui/chakra-ui/issues/684) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+3. 🗣 Commented on [#613](https://github.com/chakra-ui/chakra-ui/issues/613) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 4. 🗣 Commented on [#4723](https://github.com/prisma/prisma/issues/4723) in [prisma/prisma](https://github.com/prisma/prisma)
-5. ❗️ Opened issue [#1746](https://github.com/blitz-js/blitz/issues/1746) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+5. 🗣 Commented on [#4723](https://github.com/prisma/prisma/issues/4723) in [prisma/prisma](https://github.com/prisma/prisma)
 <!--END_SECTION:activity-->
 
 
