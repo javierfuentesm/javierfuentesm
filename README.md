@@ -40,10 +40,10 @@
  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#528](https://github.com/jquense/yup/issues/528) in [jquense/yup](https://github.com/jquense/yup)
-2. ❗️ Opened issue [#2847](https://github.com/codeceptjs/CodeceptJS/issues/2847) in [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
-3. 🗣 Commented on [#1878](https://github.com/codeceptjs/CodeceptJS/issues/1878) in [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
-4. 🗣 Commented on [#71](https://github.com/react-hook-form/resolvers/issues/71) in [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers)
+1. 🗣 Commented on [#2847](https://github.com/codeceptjs/CodeceptJS/issues/2847) in [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+2. 🗣 Commented on [#528](https://github.com/jquense/yup/issues/528) in [jquense/yup](https://github.com/jquense/yup)
+3. ❗️ Opened issue [#2847](https://github.com/codeceptjs/CodeceptJS/issues/2847) in [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+4. 🗣 Commented on [#1878](https://github.com/codeceptjs/CodeceptJS/issues/1878) in [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
 5. 🗣 Commented on [#71](https://github.com/react-hook-form/resolvers/issues/71) in [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers)
 <!--END_SECTION:activity-->
 
